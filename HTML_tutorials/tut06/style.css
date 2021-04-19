@@ -1,0 +1,34 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    background-image: url("img/sakura.png");
+    margin: 0px;
+    padding: 0px 60px;
+    color: black;
+}
+
+h1
+{
+    font-size: 42px;
+    font-weight: 400;
+    color: #7c4e18;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.block
+{
+    display: block;
+}
+
+.row
+{
+    margin: 20px 10px;
+}
+
+.col
+{
+    display: inline-block;
+    margin: 0px 10px;
+}
