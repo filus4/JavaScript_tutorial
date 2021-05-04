@@ -1,4 +1,4 @@
-var password = "Bez pracy nie ma kołaczy";
+var password = "Nie zgadniesz";
 password = password.toUpperCase();
 
 var password_lenth = password.length;
